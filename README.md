@@ -1,2 +1,2 @@
-# Analytics-Strategy-ans-Storytelling
+# Analytics-Strategy-and-Storytelling
 This repository consists of papers, articles, storyboards, infographics, and presentations drafted during my master's at Columbia for the courses that I completed.
